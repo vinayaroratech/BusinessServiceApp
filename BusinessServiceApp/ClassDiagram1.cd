@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="BusinessServiceApp.Application.Interfaces.IBusiness">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAAAEAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAACA=</HashCode>
+      <FileName>Application\Interfaces\IBusiness.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessServiceApp.Application.Interfaces.IBusiness&lt;TLegalForm, TBusinessCodeType, TBusinessAddressType&gt;">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Interfaces\IBusiness.Generic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessServiceApp.Application.Interfaces.IBusinessAddress">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAABAAIAAAAAAAgAIAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Interfaces\IBusinessAddress.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessServiceApp.Application.Interfaces.IBusinessAddressIT">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Interfaces\IBusinessAddressIT.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessServiceApp.Application.Interfaces.IBusinessGB">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Interfaces\IBusinessGB.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BusinessServiceApp.Application.Interfaces.IBusinessIT">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAIIAAABAAAAAAAACAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Application\Interfaces\IBusinessIT.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BusinessServiceApp.Application.Enums.BusinessStatus" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAQAAAA=</HashCode>
+      <FileName>Application\Enums\ApplicationEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BusinessServiceApp.Application.Enums.LegalFormGB" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQAAEAAAACAACAAAAAAAJAAAAAAAAAAAAAAAAQEA=</HashCode>
+      <FileName>Application\Enums\ApplicationEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BusinessServiceApp.Application.Enums.BusinessCodeTypeGB" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAABAAEA=</HashCode>
+      <FileName>Application\Enums\ApplicationEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BusinessServiceApp.Application.Enums.BusinessCodeTypeIT" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Application\Enums\ApplicationEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BusinessServiceApp.Application.Enums.LegalFormIT" Collapsed="true">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAQAAACAAAAAAAAAAAgIAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Application\Enums\ApplicationEnums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
